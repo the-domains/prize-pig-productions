@@ -1,0 +1,28 @@
+name: Prize Pig Productions
+favicon: null
+layout_spectrum: 0.3455811969470233
+typography_spectrum: 0.9829267575405538
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.24030484608374536
+  lightness: 0.7966677609365433
+  saturation: 0.8707346543669701
+  rhythmicContrast: 0.43669431167654693
+purpose: []
