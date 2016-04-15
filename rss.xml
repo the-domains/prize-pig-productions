@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Prize Pig Productions]]></title>
         <description><![CDATA[Prize Pig Productions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/prize-pig-productions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 21:41:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 21:42:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/prize-pig-productions/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined09203cb5-e25c-42ab-9e5e-797082143e37/index.html</link>
+            <description><![CDATA[<p>We aim to be the Global Leader of content creation for Animation & Game Shows</p>]]></description>
+            <link>https://thegrid.ai/prize-pig-productions/b0bb1e3c-ea91-4c48-bfb9-2a8f43986044/index.html</link>
+            <guid isPermaLink="false">b0bb1e3c-ea91-4c48-bfb9-2a8f43986044</guid>
+            <pubDate>Fri, 15 Apr 2016 21:42:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/prize-pig-productions/09203cb5-e25c-42ab-9e5e-797082143e37/index.html</link>
             <guid isPermaLink="false">09203cb5-e25c-42ab-9e5e-797082143e37</guid>
             <pubDate>Fri, 15 Apr 2016 21:41:52 GMT</pubDate>
         </item>
